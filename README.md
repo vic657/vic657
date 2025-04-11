@@ -3,7 +3,7 @@
 <br>
  KEFNETS GROUPIE LTD<br>
 I develop web applications<br>
-proficient in system service an maintenance<br>
+system service and maintenance<br>
 
 
 
