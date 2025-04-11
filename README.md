@@ -1,7 +1,7 @@
 ## Hi,am  victor juma
 
-computer science stuent at technical university of mombasa<br>
-IT director at KEFNETS GROUPIE LTD<br>
+<br>
+ KEFNETS GROUPIE LTD<br>
 I develop web applications<br>
 proficient in system service an maintenance<br>
 
