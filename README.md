@@ -5,7 +5,7 @@
 I develop web applications<br>
 system service and maintenance<br>
 my potfolio link<br>
-http://itsvic.netlify.app
+https://itsvic.netlify.app
 
 
 
