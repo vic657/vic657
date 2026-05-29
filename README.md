@@ -1,4 +1,4 @@
-# Hi, I'm Victor Juma 👋
+# Hi, I'm Victor Juma 
 
 ### Full-Stack Software Engineer
 
