@@ -1,9 +1,17 @@
-## Hi,am  victor juma
+# Hi, I'm Victor Juma 👋
 
-<br>
- KEFNETS GROUPIE LTD<br>
-I develop web applications<br>
-system service and maintenance<br>
+### Full-Stack Software Engineer
+
+I build scalable web applications, fintech platforms,
+payment integrations and AI-powered solutions.
+
+Currently focused on:
+
+- Laravel Applications
+- React Frontends
+- Payment Systems
+- AI Automation
+- SaaS Products<br>
 my potfolio link<br>
 https://itsvic.netlify.app
 
